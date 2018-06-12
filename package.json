@@ -19,9 +19,13 @@
     }
   ],
   "scripts": {
+    "lint": "tslint --config tslint.json --project tsconfig.json",
+    "build": "tsc"
   },
   "dependencies": {
   },
   "devDependencies": {
+    "tslint": "~5.10.0",
+    "typescript": "~2.9.1"
   }
 }
