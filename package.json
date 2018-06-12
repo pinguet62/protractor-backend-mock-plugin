@@ -1,0 +1,20 @@
+{
+  "name": "protractor-backend-mock-plugin",
+  "description": "Protractor plugin used to mock backend calls",
+  "keywords": [
+    "protractor",
+    "mock"
+  ],
+  "author": "Pinguet62 <pinguet62@gmail.com>",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinguet62/protractor-backend-mock-plugin.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
