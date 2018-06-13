@@ -1,5 +1,7 @@
 # Protractor _backend mock_ plugin
 
+[![Build Status](https://travis-ci.org/pinguet62/protractor-backend-mock-plugin.svg?branch=master)](https://travis-ci.org/pinguet62/protractor-backend-mock-plugin)
+
 Protractor plugin used to mock backend calls.
 
 ## Usage
