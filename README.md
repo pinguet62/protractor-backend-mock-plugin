@@ -1,6 +1,6 @@
 # Protractor _backend mock_ plugin
 
-[![Build Status](https://travis-ci.org/pinguet62/protractor-backend-mock-plugin.svg?branch=master)](https://travis-ci.org/pinguet62/protractor-backend-mock-plugin)
+[![GitHub Actions](https://github.com/pinguet62/protractor-backend-mock-plugin/workflows/CI/badge.svg?branch=master)](https://github.com/pinguet62/protractor-backend-mock-plugin/actions?query=workflow%3ACI+branch%3Amaster)
 
 Protractor plugin used to mock backend calls.
 
