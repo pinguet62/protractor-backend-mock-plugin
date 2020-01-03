@@ -1,5 +1,7 @@
 # Protractor _backend mock_ plugin
 
+[![Maintained](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat)](https://github.com/pinguet62)
+
 [![GitHub Actions](https://github.com/pinguet62/protractor-backend-mock-plugin/workflows/CI/badge.svg?branch=master)](https://github.com/pinguet62/protractor-backend-mock-plugin/actions?query=workflow%3ACI+branch%3Amaster)
 
 Protractor plugin used to mock backend calls.
