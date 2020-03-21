@@ -27,13 +27,13 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-http-proxy": "^1.6.0",
-    "protractor": "^5.4.2"
+    "protractor": "^5.4.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
-    "@types/express": "^4.17.2",
+    "@types/express": "^4.17.3",
     "@types/express-http-proxy": "^1.5.12",
-    "tslint": "^5.20.1",
-    "typescript": "~3.6.4"
+    "tslint": "^6.1.0",
+    "typescript": "~3.8.3"
   }
 }
