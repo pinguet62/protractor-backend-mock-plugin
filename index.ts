@@ -1,9 +1,9 @@
-import {json, urlencoded} from "body-parser";
 import * as cors from "cors";
 import * as express from "express";
-import proxy = require("express-http-proxy");
-import {Server} from "http";
+import * as proxy from "express-http-proxy";
+import {json, urlencoded} from "body-parser";
 import {ProtractorPlugin} from "protractor";
+import {Server} from "http";
 
 let server: Server;
 
@@ -28,4 +28,4 @@ const backendMockPlugin: ProtractorPlugin = {
     },
 };
 
-export = backendMockPlugin;
+export default backendMockPlugin;
