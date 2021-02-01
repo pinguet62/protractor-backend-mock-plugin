@@ -28,4 +28,4 @@ const backendMockPlugin: ProtractorPlugin = {
     },
 };
 
-export default backendMockPlugin;
+module.exports = backendMockPlugin;
